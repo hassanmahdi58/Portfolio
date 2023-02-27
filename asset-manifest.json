@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.06b6a9d6.css",
+    "main.js": "/portfolio/static/js/main.b414dfe9.js",
+    "static/media/ecommerce.gif": "/portfolio/static/media/ecommerce.46c7c8a111373d910179.gif",
+    "static/media/api.gif": "/portfolio/static/media/api.37f67e1937025774e873.gif",
+    "static/media/apod.jpg": "/portfolio/static/media/apod.a2cfda6c4a7d055a564a.jpg",
+    "static/media/graphql.png": "/portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/code.webp": "/portfolio/static/media/code.b68de573686e92483fb9.webp",
+    "static/media/iptracker.jpg": "/portfolio/static/media/iptracker.6a59ce855345e61c2783.jpg",
+    "static/media/nftportal.jpg": "/portfolio/static/media/nftportal.c0873edad5cdb32126fc.jpg",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.d9fda49c9d9f93f6f1f9.pdf",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/waveportal.jpg": "/portfolio/static/media/waveportal.524a03bbd58763d4d750.jpg",
+    "static/media/nextjs.png": "/portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/express.png": "/portfolio/static/media/express.1182731d0fa4994589eb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.06b6a9d6.css.map": "/portfolio/static/css/main.06b6a9d6.css.map",
+    "main.b414dfe9.js.map": "/portfolio/static/js/main.b414dfe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b6a9d6.css",
+    "static/js/main.b414dfe9.js"
+  ]
+}
